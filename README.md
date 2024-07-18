@@ -6,3 +6,4 @@ npm install firebase react-firebase-hooks
 
 create firebase configuration file (firebase.js)
 
+TMDB api for movies data
