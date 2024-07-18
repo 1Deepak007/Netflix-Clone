@@ -4,5 +4,5 @@
 firebase DB (netflix-clone)
 npm install firebase react-firebase-hooks
 
-create firebase congiguration file (firebase.js)
+create firebase configuration file (firebase.js)
 
